@@ -7,3 +7,13 @@ Completed an 8-month Python course with a final project.
 
 ### HTML & CSS
 Completed a 2-month course in HTML and CSS fundamentals.
+
+---
+
+## 🌍 Language Courses
+
+### France
+Completed an intensive English/French language program.
+
+### Switzerland
+Completed an international language course focused on English and French communication.
