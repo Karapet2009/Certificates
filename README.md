@@ -17,3 +17,9 @@ Completed an intensive English/French language program.
 
 ### Switzerland
 Completed an international language course focused on English and French communication.
+
+---
+
+Note: Some certificates may contain slight variations of my name 
+(Karapet Mkrtchyan / Karo Mkrtchyan / Karapet Mkrtchian) due to 
+nickname usage and different English transliterations of my Armenian name.
