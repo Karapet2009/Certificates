@@ -10,6 +10,14 @@ Completed a 2-month course in HTML and CSS fundamentals.
 
 ---
 
+## 🔐 Cybersecurity
+
+**Cisco – Introduction to Cybersecurity**
+
+Completed a course focused on the fundamentals of cybersecurity, including cyber threats, data protection, and network security basics.
+
+---
+
 ## 🌍 Language Courses
 
 ### France
